@@ -1,1 +1,1 @@
-# hello-world
+Uczenie sie podstaw gita
